@@ -1,7 +1,7 @@
 # graphql-redux
 Graphql with redux example
 ## run
-`npm i`
+`npm i`\n
 `node index.js`
 
 ## Todo
