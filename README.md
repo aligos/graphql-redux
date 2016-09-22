@@ -6,4 +6,5 @@ Graphql with redux example
 `node index.js`
 
 ## Todo
-still error when query update, i think its cors error
+* still error when query update, i think its cors error
+* change to Apollo client
